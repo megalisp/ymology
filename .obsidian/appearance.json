@@ -1,0 +1,10 @@
+{
+  "accentColor": "#85289a",
+  "enabledCssSnippets": [
+    "slide_fixes",
+    "vault_title",
+    "markdown_embed"
+  ],
+  "baseFontSize": 30,
+  "theme": "moonstone"
+}

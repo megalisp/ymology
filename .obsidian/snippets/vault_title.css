@@ -1,0 +1,27 @@
+.workspace-ribbon.mod-left + .mod-left-split .workspace-tabs.mod-top-left-space .workspace-tab-header-spacer {
+    align-items: center;
+    justify-content: center;
+    position: relative;
+
+    &::after {
+        content: "YMOLOGY";
+        padding: 0.2em 0.5em; /* Padding around the text */
+        font-weight: bold; /* Make the text bold */
+        color: white; /* Set text color to white */
+        background-color: black; /* Background color for the text */
+        border-radius: 10px; /* Rounded corners for the rectangle */
+        margin-right: 1.5em; /* Right margin to make room for the circle */
+    }
+
+    &::before {
+        content: '';
+        position: absolute;
+        right: 0; /* Position the circle to the right */
+        top: 50%;
+        transform: translateY(-50%);
+        width: 20px; /* Size of the circle */
+        height: 20px; /* Size of the circle */
+        border-radius: 50%; /* Makes it a circle */
+        background-color: hsl(var(--accent-h), var(--accent-s), var(--accent-l)); /* Accent color */
+    }
+}

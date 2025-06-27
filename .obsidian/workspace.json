@@ -1,0 +1,207 @@
+{
+  "main": {
+    "id": "daddc5a610765c3c",
+    "type": "split",
+    "children": [
+      {
+        "id": "dbdae2c32967712e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "25b41348afce9084",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": -480,
+                  "y": -220,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
+            }
+          },
+          {
+            "id": "2bc3d647d3cc3968",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COURSES/01 How To Design Programs.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01 How To Design Programs"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8b05c7774941575e",
+    "type": "split",
+    "children": [
+      {
+        "id": "1de00cc6fefa32ad",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d7b0c9460f1e5b3c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "427069f3a9f573cd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "10364250a9838642",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "409dc5090cf2208b",
+    "type": "split",
+    "children": [
+      {
+        "id": "9832d472f423f749",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "94cde3507fae3609",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "52279023ed543155",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "4324b9671c79017e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "2810a201a0927d0a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "25b41348afce9084",
+  "lastOpenFiles": [
+    "COURSES/01 How To Design Programs.md",
+    "COURSES/00 Index.md",
+    "Untitled.canvas",
+    "Untitled.md",
+    "README.md",
+    "_res_/ymology.png",
+    "_res_/logo.png",
+    "logo.png",
+    "ymology.png",
+    "LEGAL.txt",
+    "LICENSE/CC-BY-ND.txt",
+    "LICENSE",
+    "ette.png",
+    "PROJS/WORKS",
+    "PROJS",
+    "NOTEBOOK",
+    "COURSES",
+    "_res_",
+    "PREZ"
+  ]
+}
