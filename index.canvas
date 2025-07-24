@@ -1,0 +1,10 @@
+{
+	"nodes":[
+		{"id":"c98a4e9a7b9ada14","type":"file","file":"logo.png","x":-445,"y":-450,"width":400,"height":400},
+		{"id":"8a46e6bdd6e0bfb0","type":"text","text":"# YMOLOGY","x":-445,"y":-50,"width":400,"height":93},
+		{"id":"ff08e6f40fcd6ef1","type":"text","text":"#### Racket `\"Ymology\"`.","x":-605,"y":43,"width":560,"height":127},
+		{"id":"f9a6b49415659cae","type":"text","text":"This Obsidian Vault / \"KnowledgeBase\" is dedicated to studying compsci more broadly through the great works of the Racket & Scheme (and even more broadly Lisp) Communities. And some others on the peripheral. I want to basically supplement my lack of formal degree and stuck in \"expert beginner\" land as I have been over past decade plus.\n","x":-1145,"y":170,"width":1100,"height":280},
+		{"id":"b17efcb0d6583712","type":"text","text":"","x":85,"y":-450,"width":1060,"height":900}
+	],
+	"edges":[]
+}
