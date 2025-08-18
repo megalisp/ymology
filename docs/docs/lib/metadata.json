@@ -1,6 +1,6 @@
 {
   "vaultName": "YMOLOGY",
-  "lastExport": 1755491504501,
+  "lastExport": 1755490873095,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-light show-inline-title show-ribbon",
   "useCustomHeadContent": false,
@@ -12,30 +12,6 @@
     "docs/_res_/ymology.png",
     "docs/COURSES/00 Index.html",
     "docs/COURSES/01 How To Design Programs.html",
-    "docs/docs/_res_/ymology.png",
-    "docs/docs/COURSES/00 Index.html",
-    "docs/docs/COURSES/01 How To Design Programs.html",
-    "docs/docs/lib/fonts/2d5198822ab091ce4305.woff2",
-    "docs/docs/lib/fonts/4bb6ac751d1c5478ff3a.woff2",
-    "docs/docs/lib/fonts/05b618077343fbbd92b7.ttf",
-    "docs/docs/lib/fonts/52ac8f3034507f1d9e53.ttf",
-    "docs/docs/lib/fonts/70cc7ff27245e82ad414.ttf",
-    "docs/docs/lib/fonts/94f2f163d4b698242fef.otf",
-    "docs/docs/lib/fonts/535a6cf662596b3bd6a6.woff2",
-    "docs/docs/lib/fonts/72505e6a122c6acd5471.woff2",
-    "docs/docs/lib/fonts/454577c22304619db035.ttf",
-    "docs/docs/lib/fonts/b5f0f109bc88052d4000.woff2",
-    "docs/docs/lib/fonts/c8ba52b05a9ef10f4758.woff2",
-    "docs/docs/lib/fonts/cb10ffd7684cd9836a05.woff2",
-    "docs/docs/lib/fonts/cbe0ae49c52c920fd563.woff2",
-    "docs/docs/lib/media/6155340132a851f6089e.svg",
-    "docs/docs/lib/metadata.json",
-    "docs/docs/lib/rss.xml",
-    "docs/docs/LICENSE/CC-BY-ND.txt",
-    "docs/docs/index.html",
-    "docs/docs/LEGAL.txt",
-    "docs/docs/logo.png",
-    "docs/docs/README.html",
     "docs/lib/fonts/2d5198822ab091ce4305.woff2",
     "docs/lib/fonts/4bb6ac751d1c5478ff3a.woff2",
     "docs/lib/fonts/05b618077343fbbd92b7.ttf",
@@ -95,423 +71,279 @@
   ],
   "fileInfo": {
     "_res_/ymology.png": {
-      "modifiedTime": 1755491504501,
+      "modifiedTime": 1755490873095,
       "sourceSize": 28780,
       "exportedPath": "_res_/ymology.png",
       "dependencies": []
     },
     "COURSES/00 Index.md": {
-      "modifiedTime": 1755491504501,
+      "modifiedTime": 1755490873095,
       "sourceSize": 0,
       "exportedPath": "COURSES/00 Index.html",
       "dependencies": []
     },
     "COURSES/01 How To Design Programs.md": {
-      "modifiedTime": 1755491504501,
+      "modifiedTime": 1755490873095,
       "sourceSize": 2,
       "exportedPath": "COURSES/01 How To Design Programs.html",
       "dependencies": []
     },
     "LICENSE/CC-BY-ND.txt": {
-      "modifiedTime": 1755491504501,
+      "modifiedTime": 1755490873095,
       "sourceSize": 19127,
       "exportedPath": "LICENSE/CC-BY-ND.txt",
       "dependencies": []
     },
     "index.canvas": {
-      "modifiedTime": 1755491504501,
+      "modifiedTime": 1755490873095,
       "sourceSize": 891,
       "exportedPath": "index.html",
       "dependencies": []
     },
     "LEGAL.txt": {
-      "modifiedTime": 1755491504501,
+      "modifiedTime": 1755490873095,
       "sourceSize": 88,
       "exportedPath": "LEGAL.txt",
       "dependencies": []
     },
     "logo.png": {
-      "modifiedTime": 1755491504501,
+      "modifiedTime": 1755490873095,
       "sourceSize": 28780,
       "exportedPath": "logo.png",
       "dependencies": []
     },
     "README.md": {
-      "modifiedTime": 1755491504501,
-      "sourceSize": 382,
+      "modifiedTime": 1755490873095,
+      "sourceSize": 370,
       "exportedPath": "README.html",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1755491504501,
+      "modifiedTime": 1755490873095,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1755491504501,
+      "modifiedTime": 1755490873095,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1755491504501,
+      "modifiedTime": 1755490873095,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1755491504501,
+      "modifiedTime": 1755490873095,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1755491504501,
+      "modifiedTime": 1755490873095,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1755491504501,
+      "modifiedTime": 1755490873095,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1755491504501,
+      "modifiedTime": 1755490873095,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1755491504501,
+      "modifiedTime": 1755490873095,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1755491504501,
+      "modifiedTime": 1755490873095,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1755491504501,
+      "modifiedTime": 1755490873095,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1755491504501,
+      "modifiedTime": 1755490873095,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1755491504501,
+      "modifiedTime": 1755490873095,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1755491504501,
+      "modifiedTime": 1755490873095,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/6155340132a851f6089e.svg": {
-      "modifiedTime": 1755491504501,
+      "modifiedTime": 1755490873095,
       "sourceSize": 315,
       "exportedPath": "lib/media/6155340132a851f6089e.svg",
       "dependencies": []
     },
     "docs/_res_/ymology.png": {
-      "modifiedTime": 1755491504501,
+      "modifiedTime": 1755490873095,
       "sourceSize": 28780,
       "exportedPath": "docs/_res_/ymology.png",
       "dependencies": []
     },
     "docs/COURSES/00 Index.html": {
-      "modifiedTime": 1755491504501,
-      "sourceSize": 240487,
+      "modifiedTime": 1755490873095,
+      "sourceSize": 227166,
       "exportedPath": "docs/COURSES/00 Index.html",
       "dependencies": []
     },
     "docs/COURSES/01 How To Design Programs.html": {
-      "modifiedTime": 1755491504501,
-      "sourceSize": 240674,
+      "modifiedTime": 1755490873095,
+      "sourceSize": 227353,
       "exportedPath": "docs/COURSES/01 How To Design Programs.html",
       "dependencies": []
     },
     "docs/lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1755491504501,
+      "modifiedTime": 1755490873095,
       "sourceSize": 104332,
       "exportedPath": "docs/lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "docs/lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1755491504501,
+      "modifiedTime": 1755490873095,
       "sourceSize": 7876,
       "exportedPath": "docs/lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "docs/lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1755491504501,
+      "modifiedTime": 1755490873095,
       "sourceSize": 155288,
       "exportedPath": "docs/lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "docs/lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1755491504501,
+      "modifiedTime": 1755490873095,
       "sourceSize": 191568,
       "exportedPath": "docs/lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "docs/lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1755491504501,
+      "modifiedTime": 1755490873095,
       "sourceSize": 192740,
       "exportedPath": "docs/lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "docs/lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1755491504501,
+      "modifiedTime": 1755490873095,
       "sourceSize": 66800,
       "exportedPath": "docs/lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "docs/lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1755491504501,
+      "modifiedTime": 1755490873095,
       "sourceSize": 111708,
       "exportedPath": "docs/lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "docs/lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1755491504501,
+      "modifiedTime": 1755490873095,
       "sourceSize": 104232,
       "exportedPath": "docs/lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "docs/lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1755491504501,
+      "modifiedTime": 1755490873095,
       "sourceSize": 161376,
       "exportedPath": "docs/lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "docs/lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1755491504501,
+      "modifiedTime": 1755490873095,
       "sourceSize": 105804,
       "exportedPath": "docs/lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "docs/lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1755491504501,
+      "modifiedTime": 1755490873095,
       "sourceSize": 98868,
       "exportedPath": "docs/lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "docs/lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1755491504501,
+      "modifiedTime": 1755490873095,
       "sourceSize": 106876,
       "exportedPath": "docs/lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "docs/lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1755491504501,
+      "modifiedTime": 1755490873095,
       "sourceSize": 106108,
       "exportedPath": "docs/lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "docs/lib/media/6155340132a851f6089e.svg": {
-      "modifiedTime": 1755491504501,
+      "modifiedTime": 1755490873095,
       "sourceSize": 315,
       "exportedPath": "docs/lib/media/6155340132a851f6089e.svg",
       "dependencies": []
     },
     "docs/lib/metadata.json": {
-      "modifiedTime": 1755491504501,
-      "sourceSize": 11546,
+      "modifiedTime": 1755490873095,
+      "sourceSize": 5857,
       "exportedPath": "docs/lib/metadata.json",
       "dependencies": []
     },
     "docs/lib/rss.xml": {
-      "modifiedTime": 1755491504501,
-      "sourceSize": 78619,
+      "modifiedTime": 1755490873095,
+      "sourceSize": 78685,
       "exportedPath": "docs/lib/rss.xml",
       "dependencies": []
     },
     "docs/LICENSE/CC-BY-ND.txt": {
-      "modifiedTime": 1755491504501,
+      "modifiedTime": 1755490873095,
       "sourceSize": 19127,
       "exportedPath": "docs/LICENSE/CC-BY-ND.txt",
       "dependencies": []
     },
     "docs/index.html": {
-      "modifiedTime": 1755491504501,
-      "sourceSize": 327364,
+      "modifiedTime": 1755490873095,
+      "sourceSize": 314043,
       "exportedPath": "docs/index.html",
       "dependencies": []
     },
     "docs/LEGAL.txt": {
-      "modifiedTime": 1755491504501,
+      "modifiedTime": 1755490873095,
       "sourceSize": 88,
       "exportedPath": "docs/LEGAL.txt",
       "dependencies": []
     },
     "docs/logo.png": {
-      "modifiedTime": 1755491504501,
+      "modifiedTime": 1755490873095,
       "sourceSize": 28780,
       "exportedPath": "docs/logo.png",
       "dependencies": []
     },
     "docs/README.html": {
-      "modifiedTime": 1755491504501,
-      "sourceSize": 319194,
-      "exportedPath": "docs/README.html",
-      "dependencies": []
-    },
-    "docs/docs/_res_/ymology.png": {
-      "modifiedTime": 1755491504501,
-      "sourceSize": 28780,
-      "exportedPath": "docs/docs/_res_/ymology.png",
-      "dependencies": []
-    },
-    "docs/docs/COURSES/00 Index.html": {
-      "modifiedTime": 1755491504501,
-      "sourceSize": 227166,
-      "exportedPath": "docs/docs/COURSES/00 Index.html",
-      "dependencies": []
-    },
-    "docs/docs/COURSES/01 How To Design Programs.html": {
-      "modifiedTime": 1755491504501,
-      "sourceSize": 227353,
-      "exportedPath": "docs/docs/COURSES/01 How To Design Programs.html",
-      "dependencies": []
-    },
-    "docs/docs/lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1755491504501,
-      "sourceSize": 104332,
-      "exportedPath": "docs/docs/lib/fonts/2d5198822ab091ce4305.woff2",
-      "dependencies": []
-    },
-    "docs/docs/lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1755491504501,
-      "sourceSize": 7876,
-      "exportedPath": "docs/docs/lib/fonts/4bb6ac751d1c5478ff3a.woff2",
-      "dependencies": []
-    },
-    "docs/docs/lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1755491504501,
-      "sourceSize": 155288,
-      "exportedPath": "docs/docs/lib/fonts/05b618077343fbbd92b7.ttf",
-      "dependencies": []
-    },
-    "docs/docs/lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1755491504501,
-      "sourceSize": 191568,
-      "exportedPath": "docs/docs/lib/fonts/52ac8f3034507f1d9e53.ttf",
-      "dependencies": []
-    },
-    "docs/docs/lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1755491504501,
-      "sourceSize": 192740,
-      "exportedPath": "docs/docs/lib/fonts/70cc7ff27245e82ad414.ttf",
-      "dependencies": []
-    },
-    "docs/docs/lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1755491504501,
-      "sourceSize": 66800,
-      "exportedPath": "docs/docs/lib/fonts/94f2f163d4b698242fef.otf",
-      "dependencies": []
-    },
-    "docs/docs/lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1755491504501,
-      "sourceSize": 111708,
-      "exportedPath": "docs/docs/lib/fonts/535a6cf662596b3bd6a6.woff2",
-      "dependencies": []
-    },
-    "docs/docs/lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1755491504501,
-      "sourceSize": 104232,
-      "exportedPath": "docs/docs/lib/fonts/72505e6a122c6acd5471.woff2",
-      "dependencies": []
-    },
-    "docs/docs/lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1755491504501,
-      "sourceSize": 161376,
-      "exportedPath": "docs/docs/lib/fonts/454577c22304619db035.ttf",
-      "dependencies": []
-    },
-    "docs/docs/lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1755491504501,
-      "sourceSize": 105804,
-      "exportedPath": "docs/docs/lib/fonts/b5f0f109bc88052d4000.woff2",
-      "dependencies": []
-    },
-    "docs/docs/lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1755491504501,
-      "sourceSize": 98868,
-      "exportedPath": "docs/docs/lib/fonts/c8ba52b05a9ef10f4758.woff2",
-      "dependencies": []
-    },
-    "docs/docs/lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1755491504501,
-      "sourceSize": 106876,
-      "exportedPath": "docs/docs/lib/fonts/cb10ffd7684cd9836a05.woff2",
-      "dependencies": []
-    },
-    "docs/docs/lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1755491504501,
-      "sourceSize": 106108,
-      "exportedPath": "docs/docs/lib/fonts/cbe0ae49c52c920fd563.woff2",
-      "dependencies": []
-    },
-    "docs/docs/lib/media/6155340132a851f6089e.svg": {
-      "modifiedTime": 1755491504501,
-      "sourceSize": 315,
-      "exportedPath": "docs/docs/lib/media/6155340132a851f6089e.svg",
-      "dependencies": []
-    },
-    "docs/docs/lib/metadata.json": {
-      "modifiedTime": 1755491504501,
-      "sourceSize": 5857,
-      "exportedPath": "docs/docs/lib/metadata.json",
-      "dependencies": []
-    },
-    "docs/docs/lib/rss.xml": {
-      "modifiedTime": 1755491504501,
-      "sourceSize": 78685,
-      "exportedPath": "docs/docs/lib/rss.xml",
-      "dependencies": []
-    },
-    "docs/docs/LICENSE/CC-BY-ND.txt": {
-      "modifiedTime": 1755491504501,
-      "sourceSize": 19127,
-      "exportedPath": "docs/docs/LICENSE/CC-BY-ND.txt",
-      "dependencies": []
-    },
-    "docs/docs/index.html": {
-      "modifiedTime": 1755491504501,
-      "sourceSize": 314043,
-      "exportedPath": "docs/docs/index.html",
-      "dependencies": []
-    },
-    "docs/docs/LEGAL.txt": {
-      "modifiedTime": 1755491504501,
-      "sourceSize": 88,
-      "exportedPath": "docs/docs/LEGAL.txt",
-      "dependencies": []
-    },
-    "docs/docs/logo.png": {
-      "modifiedTime": 1755491504501,
-      "sourceSize": 28780,
-      "exportedPath": "docs/docs/logo.png",
-      "dependencies": []
-    },
-    "docs/docs/README.html": {
-      "modifiedTime": 1755491504501,
+      "modifiedTime": 1755490873095,
       "sourceSize": 305873,
-      "exportedPath": "docs/docs/README.html",
+      "exportedPath": "docs/README.html",
       "dependencies": []
     }
   }

@@ -11,17 +11,14 @@
             "id": "ca455faf3b98e90f",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "index.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": -0.676583587277865
-                }
+                "file": "README.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "index"
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
         ]
@@ -170,19 +167,19 @@
     }
   },
   "floating": {
-    "id": "58bae00b13dc9947",
+    "id": "5ca24b00a495e666",
     "type": "floating",
     "children": [
       {
-        "id": "3cc7fcb83c6dde52",
+        "id": "dd401d4834972816",
         "type": "window",
         "children": [
           {
-            "id": "237a3c1e07649d52",
+            "id": "a98af4e51219d244",
             "type": "tabs",
             "children": [
               {
-                "id": "8706bd17c374f022",
+                "id": "a14e40267ff680a2",
                 "type": "leaf",
                 "state": {
                   "type": "canvas",
@@ -202,8 +199,8 @@
           }
         ],
         "direction": "vertical",
-        "x": 448,
-        "y": 128,
+        "x": 1920,
+        "y": 555,
         "width": 900,
         "height": 500,
         "maximize": false,
@@ -211,31 +208,37 @@
       }
     ]
   },
-  "active": "8706bd17c374f022",
+  "active": "a14e40267ff680a2",
   "lastOpenFiles": [
     "COURSES/01 How To Design Programs.md",
-    "COURSES/00 Index.md",
+    "README.md",
     "index.canvas",
+    "docs/docs/README.html",
+    "docs/docs/logo.png",
+    "docs/docs/LEGAL.txt",
+    "docs/docs/index.html",
+    "docs/docs/LICENSE/CC-BY-ND.txt",
+    "docs/docs/LICENSE",
+    "docs/docs/lib/rss.xml",
+    "docs/docs/lib/metadata.json",
+    "docs/docs/lib/media/6155340132a851f6089e.svg",
+    "docs/docs/lib/media",
+    "docs/docs/lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "docs/docs/lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "docs/docs/_res_/ymology.png",
+    "COURSES/00 Index.md",
+    "docs/lib/media/6155340132a851f6089e.svg",
+    "docs/logo.png",
+    "docs/_res_/ymology.png",
     "ymology/logo.png",
     "ymology/_res_/ymology.png",
-    "ymology/_res_",
     "ymology/Untitled.md",
     "ymology/Untitled.canvas",
     "ymology/README.md",
-    "ymology/LICENSE/CC-BY-ND.txt",
-    "ymology/LICENSE",
-    "ymology/LEGAL.txt",
     "ymology/COURSES/01 How To Design Programs.md",
     "ymology/COURSES/00 Index.md",
-    "ymology/COURSES",
-    "ymology",
-    "docs",
     "Untitled.md",
-    "LICENSE/CC-BY-ND.txt",
-    "LEGAL.txt",
     "_res_/ymology.png",
-    "logo.png",
-    "README.md",
-    "LICENSE"
+    "logo.png"
   ]
 }

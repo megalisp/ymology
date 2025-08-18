@@ -1,5 +1,7 @@
 <div align="center">
-    <img src="logo.png" alt="Website" height="250">
+	<p>
+	    <img src="logo.png" alt="Website" height="250">
+	</p>
     <h1>NOTED :</h1>
     <h1>MEGALISP/YMOLOGY </h1>
     <h2>Personal KnowledgeBase </br>For Rack'Et <code>"Ymology"</code>.</h2>
